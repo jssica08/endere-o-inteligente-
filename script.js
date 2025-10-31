@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
   
       if (!numeroRegex.test(numero)) {
-        alert("Número deve conter apenas dígitos.");
+        alert("Número deve conter apenas Dígitos.");
         return;
       }
   
